@@ -8,6 +8,7 @@ using Decal.Adapter;
 namespace ACPop
 {
     [FriendlyName("Alias")]
+    [WireUpControlEvents] 
     public partial class PluginCore : PluginBase
     {
         public bool enabled = false;
@@ -24,7 +25,7 @@ namespace ACPop
         {
             try
             {
-                Core.CharacterFilter.LoginComplete +=new EventHandler(Alias_LoginComplete);
+                //Core.CharacterFilter.LoginComplete +=new EventHandler(Alias_LoginComplete);
                 ChatBoxMessage += new EventHandler<ChatTextInterceptEventArgs>(Alias_ChatBoxMessage);
                 CommandLineText += new EventHandler<ChatParserInterceptEventArgs>(Alias_CommandLineText);
                 
@@ -43,7 +44,7 @@ namespace ACPop
         {
             try
             {
-                Core.CharacterFilter.LoginComplete -= Alias_LoginComplete;
+                //Core.CharacterFilter.LoginComplete -= Alias_LoginComplete;
                 ChatBoxMessage -= Alias_ChatBoxMessage;
                 CommandLineText -= Alias_CommandLineText;
             }
@@ -53,6 +54,7 @@ namespace ACPop
             }
         }
 
+        [BaseEvent("LoginComplete")]
         private void Alias_LoginComplete(object sender, EventArgs e)
         {
             LoadSettings();
