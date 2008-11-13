@@ -1,0 +1,33 @@
+SAY
+{PLAYER} says, "{MESSAGE}"
+
+TELL
+{PLAYER} tells you, "{MESSAGE}"
+
+CHANNEL [General, Trade, etc (include Allegiance)]
+[{CHANNEL}] {PLAYER} says, "{MESSAGE}"
+
+SPELL CAST
+{PLAYER} says, "{SPELL WORDS}"
+
+PLAYER KILL
+{PLAYER} slays {PLAYER} magic viciously enough to impart death several times over!
+Spell Cast Other
+Pumpkin Buffer cast Saladur's Boon on you, surpassing Saladur's Boon
+
+MARKETPLACE RECALL
+{PLAYER} is going to the Marketplace.
+
+LIFESTONE RECALL
+{PLAYER} is recalling to the Lifestone.
+
+PATRON TO VASSAL
+Your patron {PLAYER} says to you, "{MESSAGE}"
+
+TINKER ANNOUNCE
+{PLAYER} successfully applies the Salvaged Steel (100) (workmanship 7.00) to the Silver Sollerets.
+
+Mage of zardoz is 54 chars long.
+<Tell:IIDString:0:Mage of zardoz>Mage of zardoz<\Tell>
+Zang Le is 40 chars long.
+<Tell:IIDString:0:Zang Le>Zang Le<\Tell>
