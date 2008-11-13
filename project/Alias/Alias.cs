@@ -17,8 +17,8 @@ namespace ACPop
         Regex regex;
         Match matches;
 
-        string commandPrefix = "alias";
-        string settingsFileName = "settings.txt";
+        string commandPrefix;
+        string settingsFileName;
 
         protected override void Startup()
         {
@@ -29,6 +29,8 @@ namespace ACPop
                 CommandLineText += new EventHandler<ChatParserInterceptEventArgs>(Alias_CommandLineText);
                 
                 regex = new Regex(@"(?<pre>\[\w+\] )?(?<player>.*)(?<post> (says|tells you).*)");
+                commandPrefix = "alias";
+                settingsFileName = "settings.txt";
 
             }
             catch (Exception ex)
