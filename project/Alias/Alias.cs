@@ -1,14 +1,9 @@
 ﻿using System;
 using System.Collections;
-using System.Collections.Generic;
-using System.Collections.Specialized;
-using System.Text;
 using System.Text.RegularExpressions;
 using System.IO;
 
 using Decal.Adapter;
-using Decal.Adapter.Wrappers;
-using Decal.Interop.Inject;
 
 namespace ACPop
 {
