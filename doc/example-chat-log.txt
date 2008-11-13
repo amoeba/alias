@@ -1,0 +1,170 @@
+18:31:49 Chat Message: `[General] Owl Of The Night says, "overlords sword"`
+18:31:49 [General] Owl Of The Night says, "overlords sword"
+18:31:53 Chat Message: `You have entered the General channel.
+`
+18:31:53 You have entered the General channel.
+18:31:53 Chat Message: `You have entered the Trade channel.
+`
+18:31:53 You have entered the Trade channel.
+18:31:53 Chat Message: `You have entered the LFG channel.
+`
+18:31:53 You have entered the LFG channel.
+18:31:53 Chat Message: `You have entered the Roleplay channel.
+`
+18:31:53 You have entered the Roleplay channel.
+18:31:53 Alias loaded.
+18:32:01 Chat Message: `[General] Gildash says, "hum ok ty"`
+18:32:01 [General] Gildash says, "hum ok ty"
+18:32:02 Chat Message: `Pumpkin Buffer cast Saladur's Boon on you, surpassing Saladur's Boon
+`
+18:32:02 Pumpkin Buffer cast Saladur's Boon on you, surpassing Saladur's Boon
+18:32:04 Chat Message: `You gore Pumpkin Buffer for 13 points of piercing damage!
+`
+18:32:04 You gore Pumpkin Buffer for 13 points of piercing damage!
+18:32:06 Chat Message: `You impale Pumpkin Buffer for 12 points of piercing damage!
+`
+18:32:06 You impale Pumpkin Buffer for 12 points of piercing damage!
+18:32:08 Chat Message: `You run Pumpkin Buffer through!
+`
+18:32:08 You run Pumpkin Buffer through!
+18:32:08 Chat Message: `The Pumpkin Buffer bursts open spraying treats.
+`
+18:32:08 The Pumpkin Buffer bursts open spraying treats.
+18:33:20 Chat Message: `Small Creepy Statue tells you, "You hide in the folds of Asheron's protection."
+`
+18:33:20 Small Creepy Statue tells you, "You hide in the folds of Asheron's protection."
+18:33:20 Chat Message: `Small Creepy Statue tells you, "You hide in the folds of Asheron's protection."
+`
+18:33:20 Small Creepy Statue tells you, "You hide in the folds of Asheron's protection."
+18:33:23 Chat Message: `You say, "Heyas"
+`
+18:33:23 You say, "Heyas"
+18:33:31 Chat Message: `[General] Santa Claus' says, "forget this ima go back to watching my alf dvds"`
+18:33:31 [General] Santa Claus' says, "forget this ima go back to watching my alf dvds"
+18:33:40 Chat Message: `Koltharr is going to the Marketplace.
+`
+18:33:40 Koltharr is going to the Marketplace.
+18:33:47 Chat Message: `[General] Soi says, "perv"`
+18:33:47 [General] Soi says, "perv"
+18:33:57 Chat Message: `Healasorus says, "Jevak Quasith"
+`
+18:33:57 Healasorus says, "Jevak Quasith"
+18:34:00 Chat Message: `Healasorus says, ":)"
+`
+18:34:00 Healasorus says, ":)"
+18:34:03 Chat Message: `Defiled magic says, "not everything baned"
+`
+18:34:03 Defiled magic says, "not everything baned"
+18:34:04 Chat Message: `Defiled magic says, "heal bane my sht?"
+`
+18:34:04 Defiled magic says, "heal bane my sht?"
+18:34:14 Chat Message: `Healasorus says, "gimme ur gear"
+`
+18:34:14 Healasorus says, "gimme ur gear"
+18:34:14 Chat Message: `Man fighter says, "Malar Zhapaj"
+`
+18:34:14 Man fighter says, "Malar Zhapaj"
+18:34:23 Chat Message: `Man fighter says, "Zojak Quasith"
+`
+18:34:23 Man fighter says, "Zojak Quasith"
+18:34:24 Chat Message: `Defiled magic says, "lol"
+`
+18:34:24 Defiled magic says, "lol"
+18:34:29 Chat Message: `Man fighter says, "Zojak Quasith"
+`
+18:34:29 Man fighter says, "Zojak Quasith"
+18:34:33 Chat Message: `Tinkeralltrade says, "Shurov Thipaj"
+`
+18:34:33 Tinkeralltrade says, "Shurov Thipaj"
+18:34:35 Chat Message: `Healasorus says, "Puish Zhasith"
+`
+18:34:35 Healasorus says, "Puish Zhasith"
+18:34:36 Chat Message: `Man fighter says, "Zojak Quasith"
+`
+18:34:36 Man fighter says, "Zojak Quasith"
+18:34:38 Chat Message: `Defiled magic says, "stop"
+`
+18:34:38 Defiled magic says, "stop"
+18:34:38 Chat Message: `Healasorus says, "Malar Zhapaj"
+`
+18:34:38 Healasorus says, "Malar Zhapaj"
+18:34:42 Chat Message: `Healasorus says, "Cruath Quafeth"
+`
+18:34:42 Healasorus says, "Cruath Quafeth"
+18:34:46 Chat Message: `Healasorus says, "Zojak Quasith"
+`
+18:34:46 Healasorus says, "Zojak Quasith"
+18:34:49 Chat Message: `Healasorus says, "Cruath Quafeth"
+`
+18:34:49 Healasorus says, "Cruath Quafeth"
+18:34:52 Chat Message: `Healasorus says, "Zojak Quasith"
+`
+18:34:52 Healasorus says, "Zojak Quasith"
+18:34:54 Chat Message: `Defiled magic says, "Zojak Quaguz"
+`
+18:34:54 Defiled magic says, "Zojak Quaguz"
+18:34:54 Chat Message: `Man fighter says, "Malar Zhapaj"
+`
+18:34:54 Man fighter says, "Malar Zhapaj"
+18:34:57 Chat Message: `Healasorus says, "Malar Zhavik"
+`
+18:34:57 Healasorus says, "Malar Zhavik"
+18:35:31 Chat Message: `Man fighter slays Defiled magic viciously enough to impart death several times over!
+`
+18:35:31 Man fighter slays Defiled magic viciously enough to impart death several times over!
+
+18:39:35 Chat Message: `You say to your Patron, "Tanks much"
+`
+18:39:35 You say to your Patron, "Tanks much"
+18:39:38 Chat Message: `Your patron Autumn di Lonsgard says to you, "np :)"
+`
+18:39:38 Your patron Autumn di Lonsgard says to you, "np :)"
+18:39:39 Chat Message: `[General] Diamond Sho says, "ur 13 huh"`
+18:39:39 [General] Diamond Sho says, "ur 13 huh"
+18:39:40 Chat Message: `[General] Defiled magic says, "i know stfu"`
+18:39:40 [General] Defiled magic says, "i know stfu"
+18:39:50 Chat Message: `Your patron Autumn di Lonsgard says to you, "good luck :)"
+`
+18:39:50 Your patron Autumn di Lonsgard says to you, "good luck :)"
+18:39:50 Chat Message: `You say to your Patron, "Say something in /a chat for me please :)"
+`
+18:39:50 You say to your Patron, "Say something in /a chat for me please :)"
+18:39:51 Chat Message: `[General] Defiled magic says, "mind ur own damn business lol"`
+18:39:51 [General] Defiled magic says, "mind ur own damn business lol"
+18:40:00 Chat Message: `[General] Diamond Sho says, ":(("`
+18:40:00 [General] Diamond Sho says, ":(("
+18:40:00 Chat Message: `[Allegiance] Autumn di Lonsgard says, "everyone say hi to Koltharr :)"`
+18:40:00 [Allegiance] Autumn di Lonsgard says, "everyone say hi to Koltharr :)"
+
+18:40:12 [General] He's A Wrecking Machine says, "howsabout you get over your gear defiled?"
+18:40:12 Chat Message: `[Allegiance] Koltharr says, "Heyas, thanks :)"`
+18:40:12 [Allegiance] Koltharr says, "Heyas, thanks :)"
+18:40:17 Chat Message: `Your patron Autumn di Lonsgard says to you, "how is that? :)"
+`
+18:40:17 Your patron Autumn di Lonsgard says to you, "how is that? :)"
+18:40:25 Chat Message: `[General] Defiled magic says, "no"`
+18:40:25 [General] Defiled magic says, "no"
+18:40:28 Chat Message: `[Allegiance] Onlyme says, "ok all my vassals say hi lol"`
+18:40:28 [Allegiance] Onlyme says, "ok all my vassals say hi lol"
+18:40:28 Chat Message: `[General] Defiled magic says, "its my gearz"`
+18:40:28 [General] Defiled magic says, "its my gearz"
+18:40:32 Chat Message: `Lysariah successfully applies the Salvaged Steel (100) (workmanship 7.00) to the Silver Sollerets.
+`
+18:40:32 Lysariah successfully applies the Salvaged Steel (100) (workmanship 7.00) to the Silver Sollerets.
+18:40:33 Chat Message: `[Allegiance] Autumn di Lonsgard says, "lol"`
+18:40:33 [Allegiance] Autumn di Lonsgard says, "lol"
+18:40:33 Chat Message: `[General] He's A Wrecking Machine says, "dont be a b to the itch"`
+18:40:33 [General] He's A Wrecking Machine says, "dont be a b to the itch"
+18:40:34 Chat Message: `Lysariah successfully applies the Salvaged Steel (100) (workmanship 7.08) to the Silver Sollerets.
+`
+18:40:34 Lysariah successfully applies the Salvaged Steel (100) (workmanship 7.08) to the Silver Sollerets.
+18:40:36 Chat Message: `[Allegiance] Autumn di Lonsgard says, "brb on Aek"`
+18:40:36 [Allegiance] Autumn di Lonsgard says, "brb on Aek"
+18:40:36 Chat Message: `Lysariah successfully applies the Salvaged Steel (100) (workmanship 7.15) to the Silver Sollerets.
+`
+18:40:36 Lysariah successfully applies the Salvaged Steel (100) (workmanship 7.15) to the Silver Sollerets.
+18:40:38 Chat Message: `Lysariah successfully applies the Salvaged Steel (100) (workmanship 7.69) to the Silver Sollerets.
+`
+18:40:38 Lysariah successfully applies the Salvaged Steel (100) (workmanship 7.69) to the Silver Sollerets.
+18:40:40 Chat Message: `[General] Defiled magic says, "bitch? lol"`
+18:40:40 [General] Defiled magic says, "bitch? lol"
