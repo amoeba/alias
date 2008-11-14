@@ -4,14 +4,15 @@ using System.Text.RegularExpressions;
 using System.IO;
 
 using Decal.Adapter;
+using Decal.Adapter.Wrappers;
 
 namespace ACPop
 {
     [FriendlyName("Alias")]
-    [WireUpControlEvents] 
+    [WireUpBaseEvents]
     public partial class PluginCore : PluginBase
     {
-        public bool enabled = false;
+        public bool enabled = true;
 
         Hashtable Aliases = new Hashtable();
 
@@ -25,14 +26,9 @@ namespace ACPop
         {
             try
             {
-                //Core.CharacterFilter.LoginComplete +=new EventHandler(Alias_LoginComplete);
-                ChatBoxMessage += new EventHandler<ChatTextInterceptEventArgs>(Alias_ChatBoxMessage);
-                CommandLineText += new EventHandler<ChatParserInterceptEventArgs>(Alias_CommandLineText);
-                
                 regex = new Regex(@"(?<pre>\[\w+\] )?(?<player>.*)(?<post> (says|tells you).*)");
                 commandPrefix = "alias";
                 settingsFileName = "settings.txt";
-
             }
             catch (Exception ex)
             {
@@ -44,9 +40,6 @@ namespace ACPop
         {
             try
             {
-                //Core.CharacterFilter.LoginComplete -= Alias_LoginComplete;
-                ChatBoxMessage -= Alias_ChatBoxMessage;
-                CommandLineText -= Alias_CommandLineText;
             }
             catch (Exception ex)
             {
@@ -55,12 +48,13 @@ namespace ACPop
         }
 
         [BaseEvent("LoginComplete")]
-        private void Alias_LoginComplete(object sender, EventArgs e)
+        private void OnLoginComplete(object sender, EventArgs e)
         {
             LoadSettings();
         }
 
-        private void Alias_ChatBoxMessage(object sender, ChatTextInterceptEventArgs e)
+        [BaseEvent("ChatBoxMessage")]
+        private void OnChatBoxMessage(object sender, ChatTextInterceptEventArgs e)
         {
             if (!enabled)
                 return;
@@ -84,7 +78,8 @@ namespace ACPop
             WriteToChat(output, e.Color, e.Target);
         }
 
-        private void Alias_CommandLineText(object sender, ChatParserInterceptEventArgs e)
+        [BaseEvent("CommandLineText")]
+        private void OnCommandLineText(object sender, ChatParserInterceptEventArgs e)
         {
             string command = e.Text;
 
@@ -224,6 +219,8 @@ namespace ACPop
                     }
                 }
             }
+
+            WriteToChat("Settings successfully loaded.");
         }
 
         private void SaveSettings()
