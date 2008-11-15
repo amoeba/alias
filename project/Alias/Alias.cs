@@ -167,6 +167,10 @@ namespace ACPop
                         WriteToChat("Alias v0.1", 7);
                         WriteToChat("By Kolthar (petridish@gmail.com)", 7);
                         WriteToChat("Available commands: enable, disable, add, remove, list, help", 7);
+                        WriteToChat("Example usage:", 7);
+                        WriteToChat("add => @alias add \"Some Person's Alt\" \"Some Person\"", 7);
+                        WriteToChat("remove => @alias remove Some Person", 7);
+      
                     }
                     else
                     {
