@@ -47,8 +47,8 @@ namespace ACPop
             }
         }
 
-        [BaseEvent("LoginComplete")]
-        private void OnLoginComplete(object sender, EventArgs e)
+        [BaseEvent("LoginComplete", "CharacterFilter")]
+        private void CharacterFilter_LoginComplete(object sender, EventArgs e)
         {
             LoadSettings();
         }
